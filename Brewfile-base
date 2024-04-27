@@ -1,0 +1,35 @@
+# Theses taps are recommended: https://www.thushanfernando.com/posts/2022/managing-macos-with-brewfile/#best-taps-to-tap
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/services"
+tap "buo/cask-upgrade"
+
+# These are the taps I use
+tap "homebrew/bundle"
+
+# These are the brew packages I use
+brew "zoxide"
+brew "bat"
+brew "bpytop"
+brew "fzf"
+brew "httpie"
+brew "zsh-autocomplete"
+brew "zsh-autosuggestions"
+brew "lsd"
+brew "powerlevel10k"
+brew "thefuck"
+brew "tmux"
+brew "neovim"
+brew "thefuck"
+
+# These are the cask I use
+cask "arc"
+cask "bitwarden"
+cask "discord"
+cask "firefox"
+cask "google-chrome"
+cask "iterm2"
+cask "obsidian"
+cask "rectangle"
+cask "spotify"
+cask "visual-studio-code"
